@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
-<name>antergos logo blue everyone</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-everyone.png</filename>
+<name>300 Sails Tonight 4K Darkscape Wallpaper</name>
+<filename>/usr/share/backgrounds/300 Sails Tonight 4K Darkscape Wallpaper.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -11,8 +11,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo blue smoke</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-smoke.png</filename>
+<name>Reborn Woods</name>
+<filename>/usr/share/backgrounds/rebonr-woods.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -20,8 +20,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>kaffee picture</name>
-<filename>/usr/share/antergos/wallpapers-extra/kaffee-picture.jpg</filename>
+<name>Reborn (Black)</name>
+<filename>/usr/share/backgrounds/reborn-black.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -29,8 +29,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>flower</name>
-<filename>/usr/share/antergos/wallpapers-extra/flower.jpg</filename>
+<name>Reborn Airy</name>
+<filename>/usr/share/backgrounds/reborn-airy.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -47,8 +47,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>morning mist</name>
-<filename>/usr/share/antergos/wallpapers-extra/morning-mist.jpg</filename>
+<name>Reborn (Black) 2</name>
+<filename>/usr/share/backgrounds/reborn-black2.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -65,8 +65,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>reflection</name>
-<filename>/usr/share/antergos/wallpapers-extra/reflection.jpg</filename>
+<name>Reborn (Black) 3</name>
+<filename>/usr/share/backgrounds/reborn-black3.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -74,8 +74,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>miracle beach</name>
-<filename>/usr/share/antergos/wallpapers-extra/miracle-beach.jpg</filename>
+<name>Reborn (Black) 4</name>
+<filename>/usr/share/backgrounds/reborn-black3.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -83,8 +83,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>european reminisce</name>
-<filename>/usr/share/antergos/wallpapers-extra/european-reminisce.jpg</filename>
+<name>Reborn (Black) 4</name>
+<filename>/usr/share/backgrounds/reborn-black4.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -92,8 +92,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>back alley graffiti</name>
-<filename>/usr/share/antergos/wallpapers-extra/back-alley-graffiti.jpg</filename>
+<name>Reborn (Blue)</name>
+<filename>/usr/share/backgrounds/reborn-blue.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -101,8 +101,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>prairie hay</name>
-<filename>/usr/share/antergos/wallpapers-extra/prairie-hay.jpg</filename>
+<name>Reborn Flowers</name>
+<filename>/usr/share/backgrounds/reborn-flowers.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -110,8 +110,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>prairie salt</name>
-<filename>/usr/share/antergos/wallpapers-extra/prairie-salt.jpg</filename>
+<name>Reborn Globe (White)</name>
+<filename>/usr/share/backgrounds/reborn-globe-white.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -119,8 +119,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>ebook cover</name>
-<filename>/usr/share/antergos/wallpapers-extra/ebook-cover.jpg</filename>
+<name>Reborn Globe</name>
+<filename>/usr/share/backgrounds/reborn-globe.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -128,8 +128,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>looking up</name>
-<filename>/usr/share/antergos/wallpapers-extra/looking-up.jpg</filename>
+<name>Reborn Globe (Large)</name>
+<filename>/usr/share/backgrounds/reborn-globe2.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -137,8 +137,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>paws</name>
-<filename>/usr/share/antergos/wallpapers-extra/paws.jpg</filename>
+<name>Reborn (Green)</name>
+<filename>/usr/share/backgrounds/reborn-green.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -146,8 +146,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>purple</name>
-<filename>/usr/share/antergos/wallpapers-extra/purple.jpg</filename>
+<name>Reborn (Green) 2</name>
+<filename>/usr/share/backgrounds/reborn-green2.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -155,8 +155,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>open shell</name>
-<filename>/usr/share/antergos/wallpapers-extra/open-shell.jpg</filename>
+<name>Reborn (Orange)</name>
+<filename>/usr/share/backgrounds/reborn-orange.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -164,8 +164,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>lago verde</name>
-<filename>/usr/share/antergos/wallpapers-extra/lago-verde.jpg</filename>
+<name>Reborn (Rainbow)</name>
+<filename>/usr/share/backgrounds/reborn-rainbow.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -173,8 +173,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>kaffee</name>
-<filename>/usr/share/antergos/wallpapers-extra/kaffee.jpg</filename>
+<name>Reborn In Space</name>
+<filename>/usr/share/backgrounds/reborn-space.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -182,8 +182,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo code</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-code.png</filename>
+<name>Reborn In Wall</name>
+<filename>/usr/share/backgrounds/reborn-wall.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -191,8 +191,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos stripes</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-stripes.png</filename>
+<name>Reborn Water (White)</name>
+<filename>/usr/share/backgrounds/reborn-water-white.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -200,8 +200,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo blue</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue.png</filename>
+<name>Reborn Water</name>
+<filename>/usr/share/backgrounds/reborn-water.jpg</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -209,8 +209,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo blue bright</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-blue-bright.png</filename>
+<name>Reborn (White)</name>
+<filename>/usr/share/backgrounds/reborn-white.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -218,8 +218,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo mini bw</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-mini-bw.png</filename>
+<name>Reborn (White) 2</name>
+<filename>/usr/share/backgrounds/reborn-white2.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -227,8 +227,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>antergos logo stripes blue</name>
-<filename>/usr/share/antergos/wallpapers-extra/antergos-logo-stripes-blue.png</filename>
+<name>Reborn (Yellow)</name>
+<filename>/usr/share/backgrounds/reborn-yellow.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
@@ -236,26 +236,8 @@
 </wallpaper>
 
 <wallpaper>
-<name>field</name>
-<filename>/usr/share/antergos/wallpapers-extra/field.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>fire</name>
-<filename>/usr/share/antergos/wallpapers-extra/fire.jpg</filename>
-<options>zoom</options>
-<pcolor>#ffffff</pcolor>
-<scolor>#ffffff</scolor>
-<shade_type>solid</shade_type>
-</wallpaper>
-
-<wallpaper>
-<name>beach</name>
-<filename>/usr/share/antergos/wallpapers-extra/beach.jpg</filename>
+<name>Reborn (Yellow) 2</name>
+<filename>/usr/share/backgrounds/reborn-yellow2.png</filename>
 <options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#ffffff</scolor>
